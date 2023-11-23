@@ -1,7 +1,7 @@
 Librette flash messages
 ======
 
-https://book.honzacerny.com/nette-framework/jak-resit-preklady-flash-zpravicek-v-nette-framework
+[Dokumentace] (https://book.honzacerny.com/nette-framework/jak-resit-preklady-flash-zpravicek-v-nette-framework)
 
 Installation
 ----
