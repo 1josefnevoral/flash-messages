@@ -1,5 +1,5 @@
 {
-	"name": "librette/flash-messages",
+	"name": "aplitax/flash-messages",
 	"description": "Enhanced flash messages for Nette framework",
 	"type": "library",
 	"keywords": ["nette", "librette", "components"],
